@@ -29,6 +29,8 @@ inverse_matrix = np.linalg.inv(matrix)
 print(inverse_matrix)
 ~~~
 ## Output:
+<img width="1097" height="784" alt="image" src="https://github.com/user-attachments/assets/3788d9f2-9ca3-4c63-aa7e-17f17072ac6a" />
+
 <img width="1407" height="241" alt="Screenshot 2025-08-18 111747" src="https://github.com/user-attachments/assets/e421c375-c99f-44b4-b5aa-60baa6242352" />
 
 ## Result:
